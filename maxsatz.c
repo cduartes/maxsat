@@ -45,10 +45,10 @@ An actual unit clause is an existing clause before look-ahead starts
 /* Based on maxsatz17, 
  */
 
-//#include <stdio.h>
+#include <stdio.h>
 #include <stdlib.h>
 #include <time.h>
-#include <iostream>
+//#include <iostream>
 
 #include <sys/times.h>
 #include <sys/types.h>
